@@ -1,0 +1,5 @@
+Message[302] /Users/orerunzy99/MPLABXProjects/runsewe_homework1.X/runsewe_monitorcircuits.asm 40 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] /Users/orerunzy99/MPLABXProjects/runsewe_homework1.X/runsewe_monitorcircuits.asm 41 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[305] /Users/orerunzy99/MPLABXProjects/runsewe_homework1.X/runsewe_monitorcircuits.asm 56 : Using default destination of 1 (file).
+Message[305] /Users/orerunzy99/MPLABXProjects/runsewe_homework1.X/runsewe_monitorcircuits.asm 67 : Using default destination of 1 (file).
+Message[305] /Users/orerunzy99/MPLABXProjects/runsewe_homework1.X/runsewe_monitorcircuits.asm 76 : Using default destination of 1 (file).
